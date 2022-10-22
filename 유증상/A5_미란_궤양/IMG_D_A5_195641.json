@@ -1,0 +1,73 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A5_195641.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-11-09",
+		"breed": "푸들",
+		"age": "4",
+		"gender": "F",
+		"region": "A",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A5",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A5_미란_궤양",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A5_미란_궤양",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#56bcec",
+				"location": [
+					{
+						"x1": 535,
+						"y1": 252,
+						"x2": 525,
+						"y2": 255,
+						"x3": 522,
+						"y3": 256,
+						"x4": 512,
+						"y4": 268,
+						"x5": 511,
+						"y5": 281,
+						"x6": 536,
+						"y6": 287,
+						"x7": 537,
+						"y7": 288,
+						"x8": 542,
+						"y8": 271,
+						"x9": 542,
+						"y9": 268,
+						"x10": 542,
+						"y10": 256,
+						"x11": 535,
+						"y11": 252
+					}
+				],
+				"label": "A5_미란_궤양",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#56bcec",
+				"location": [
+					{
+						"x": 511,
+						"y": 252,
+						"width": 31,
+						"height": 36
+					}
+				],
+				"label": "A5_미란_궤양",
+				"type": "box"
+			}
+		}
+	]
+}

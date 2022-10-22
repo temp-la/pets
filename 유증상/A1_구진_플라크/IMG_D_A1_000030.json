@@ -1,0 +1,71 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A1_43_000030.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-18",
+		"breed": "말티즈",
+		"age": "3",
+		"gender": "F",
+		"region": "L",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A1",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x1": 1058,
+						"y1": 473,
+						"x2": 1038,
+						"y2": 479,
+						"x3": 1035,
+						"y3": 486,
+						"x4": 1031,
+						"y4": 496,
+						"x5": 1035,
+						"y5": 512,
+						"x6": 1075,
+						"y6": 524,
+						"x7": 1080,
+						"y7": 519,
+						"x8": 1074,
+						"y8": 488,
+						"x9": 1067,
+						"y9": 472,
+						"x10": 1058,
+						"y10": 473
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x": 1031,
+						"y": 472,
+						"width": 49,
+						"height": 52
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "box"
+			}
+		}
+	]
+}

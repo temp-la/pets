@@ -1,0 +1,71 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A6_17_203166.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-07",
+		"breed": "시츄",
+		"age": "10",
+		"gender": "M",
+		"region": "B",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A6",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A6_결절_종괴",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A6_결절_종괴",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#6600cc",
+				"location": [
+					{
+						"x1": 952,
+						"y1": 309,
+						"x2": 919,
+						"y2": 279,
+						"x3": 864,
+						"y3": 268,
+						"x4": 827,
+						"y4": 275,
+						"x5": 809,
+						"y5": 311,
+						"x6": 818,
+						"y6": 358,
+						"x7": 873,
+						"y7": 399,
+						"x8": 933,
+						"y8": 412,
+						"x9": 974,
+						"y9": 396,
+						"x10": 952,
+						"y10": 309
+					}
+				],
+				"label": "A6_결절_종괴",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#6600cc",
+				"location": [
+					{
+						"x": 809,
+						"y": 268,
+						"width": 165,
+						"height": 144
+					}
+				],
+				"label": "A6_결절_종괴",
+				"type": "box"
+			}
+		}
+	]
+}

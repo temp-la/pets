@@ -1,0 +1,79 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A5_50_195616.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-27",
+		"breed": "몽그렐",
+		"age": "9",
+		"gender": "M",
+		"region": "B",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A5",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A5_미란_궤양",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A5_미란_궤양",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#328aa0",
+				"location": [
+					{
+						"x1": 750,
+						"y1": 563,
+						"x2": 734,
+						"y2": 558,
+						"x3": 716,
+						"y3": 570,
+						"x4": 705,
+						"y4": 584,
+						"x5": 712,
+						"y5": 603,
+						"x6": 716,
+						"y6": 613,
+						"x7": 734,
+						"y7": 612,
+						"x8": 753,
+						"y8": 613,
+						"x9": 767,
+						"y9": 615,
+						"x10": 769,
+						"y10": 613,
+						"x11": 778,
+						"y11": 601,
+						"x12": 782,
+						"y12": 594,
+						"x13": 787,
+						"y13": 579,
+						"x14": 750,
+						"y14": 563
+					}
+				],
+				"label": "A5_미란_궤양",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#328aa0",
+				"location": [
+					{
+						"x": 705,
+						"y": 558,
+						"width": 82,
+						"height": 57
+					}
+				],
+				"label": "A5_미란_궤양",
+				"type": "box"
+			}
+		}
+	]
+}

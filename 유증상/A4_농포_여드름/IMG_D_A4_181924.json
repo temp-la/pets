@@ -1,0 +1,67 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A4_181924.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-29",
+		"breed": "비숑프리제",
+		"age": "4",
+		"gender": "M",
+		"region": "L",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A4",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A4_농포_여드름",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A4_농포_여드름",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#0033cc",
+				"location": [
+					{
+						"x1": 850,
+						"y1": 651,
+						"x2": 827,
+						"y2": 651,
+						"x3": 774,
+						"y3": 663,
+						"x4": 796,
+						"y4": 699,
+						"x5": 825,
+						"y5": 711,
+						"x6": 858,
+						"y6": 711,
+						"x7": 883,
+						"y7": 693,
+						"x8": 850,
+						"y8": 651
+					}
+				],
+				"label": "A4_농포_여드름",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#0033cc",
+				"location": [
+					{
+						"x": 774,
+						"y": 651,
+						"width": 109,
+						"height": 60
+					}
+				],
+				"label": "A4_농포_여드름",
+				"type": "box"
+			}
+		}
+	]
+}

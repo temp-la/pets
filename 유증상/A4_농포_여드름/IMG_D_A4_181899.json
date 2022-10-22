@@ -1,0 +1,67 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A4_181899.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-14",
+		"breed": "말티즈",
+		"age": "12",
+		"gender": "F",
+		"region": "A",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A4",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A4_농포_여드름",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A4_농포_여드름",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#0033cc",
+				"location": [
+					{
+						"x1": 1153,
+						"y1": 332,
+						"x2": 1136,
+						"y2": 383,
+						"x3": 1196,
+						"y3": 415,
+						"x4": 1225,
+						"y4": 394,
+						"x5": 1237,
+						"y5": 352,
+						"x6": 1244,
+						"y6": 323,
+						"x7": 1205,
+						"y7": 305,
+						"x8": 1153,
+						"y8": 332
+					}
+				],
+				"label": "A4_농포_여드름",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#0033cc",
+				"location": [
+					{
+						"x": 1136,
+						"y": 305,
+						"width": 108,
+						"height": 110
+					}
+				],
+				"label": "A4_농포_여드름",
+				"type": "box"
+			}
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A1_42_000047.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-27",
+		"breed": "푸들",
+		"age": "11",
+		"gender": "F",
+		"region": "L",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A1",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x1": 1235,
+						"y1": 592,
+						"x2": 1220,
+						"y2": 594,
+						"x3": 1211,
+						"y3": 600,
+						"x4": 1206,
+						"y4": 618,
+						"x5": 1212,
+						"y5": 630,
+						"x6": 1224,
+						"y6": 644,
+						"x7": 1256,
+						"y7": 658,
+						"x8": 1272,
+						"y8": 649,
+						"x9": 1267,
+						"y9": 631,
+						"x10": 1251,
+						"y10": 604,
+						"x11": 1235,
+						"y11": 592
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x": 1206,
+						"y": 592,
+						"width": 66,
+						"height": 66
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "box"
+			}
+		}
+	]
+}

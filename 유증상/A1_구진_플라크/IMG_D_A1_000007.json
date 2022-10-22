@@ -1,0 +1,69 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A1_000007.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-05",
+		"breed": "페키니즈",
+		"age": "5",
+		"gender": "F",
+		"region": "L",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A1",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x1": 895,
+						"y1": 535,
+						"x2": 885,
+						"y2": 526,
+						"x3": 872,
+						"y3": 540,
+						"x4": 869,
+						"y4": 549,
+						"x5": 868,
+						"y5": 560,
+						"x6": 872,
+						"y6": 569,
+						"x7": 882,
+						"y7": 578,
+						"x8": 911,
+						"y8": 562,
+						"x9": 895,
+						"y9": 535
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x": 868,
+						"y": 526,
+						"width": 43,
+						"height": 52
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "box"
+			}
+		}
+	]
+}

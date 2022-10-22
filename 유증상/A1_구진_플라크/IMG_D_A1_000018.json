@@ -1,0 +1,71 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A1_000018.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-07",
+		"breed": "시츄",
+		"age": "1",
+		"gender": "M",
+		"region": "L",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A1",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A1_구진_플라크",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x1": 1081,
+						"y1": 455,
+						"x2": 1051,
+						"y2": 438,
+						"x3": 996,
+						"y3": 468,
+						"x4": 987,
+						"y4": 492,
+						"x5": 995,
+						"y5": 504,
+						"x6": 1040,
+						"y6": 497,
+						"x7": 1077,
+						"y7": 481,
+						"x8": 1096,
+						"y8": 473,
+						"x9": 1106,
+						"y9": 469,
+						"x10": 1081,
+						"y10": 455
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#1beaac",
+				"location": [
+					{
+						"x": 987,
+						"y": 438,
+						"width": 119,
+						"height": 66
+					}
+				],
+				"label": "A1_구진_플라크",
+				"type": "box"
+			}
+		}
+	]
+}

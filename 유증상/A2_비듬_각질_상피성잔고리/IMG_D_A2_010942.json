@@ -1,0 +1,73 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A2_28_010942.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-11-12",
+		"breed": "말티즈",
+		"age": "2",
+		"gender": "F",
+		"region": "B",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A2",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A2_비듬_각질_상피성잔고리",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A2_비듬_각질_상피성잔고리",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#27b73c",
+				"location": [
+					{
+						"x1": 464,
+						"y1": 511,
+						"x2": 443,
+						"y2": 504,
+						"x3": 423,
+						"y3": 498,
+						"x4": 384,
+						"y4": 492,
+						"x5": 355,
+						"y5": 492,
+						"x6": 335,
+						"y6": 523,
+						"x7": 347,
+						"y7": 547,
+						"x8": 434,
+						"y8": 567,
+						"x9": 473,
+						"y9": 552,
+						"x10": 472,
+						"y10": 525,
+						"x11": 464,
+						"y11": 511
+					}
+				],
+				"label": "A2_비듬_각질_상피성잔고리",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#27b73c",
+				"location": [
+					{
+						"x": 335,
+						"y": 492,
+						"width": 138,
+						"height": 75
+					}
+				],
+				"label": "A2_비듬_각질_상피성잔고리",
+				"type": "box"
+			}
+		}
+	]
+}

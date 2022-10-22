@@ -1,0 +1,67 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A2_13_010679.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-10-27",
+		"breed": "미니어처핀셔",
+		"age": "17",
+		"gender": "F",
+		"region": "B",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A2",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A2_비듬_각질_상피성잔고리",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A2_비듬_각질_상피성잔고리",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#27b73c",
+				"location": [
+					{
+						"x1": 184,
+						"y1": 628,
+						"x2": 151,
+						"y2": 634,
+						"x3": 139,
+						"y3": 661,
+						"x4": 147,
+						"y4": 698,
+						"x5": 197,
+						"y5": 699,
+						"x6": 246,
+						"y6": 697,
+						"x7": 258,
+						"y7": 655,
+						"x8": 184,
+						"y8": 628
+					}
+				],
+				"label": "A2_비듬_각질_상피성잔고리",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#27b73c",
+				"location": [
+					{
+						"x": 139,
+						"y": 628,
+						"width": 119,
+						"height": 71
+					}
+				],
+				"label": "A2_비듬_각질_상피성잔고리",
+				"type": "box"
+			}
+		}
+	]
+}

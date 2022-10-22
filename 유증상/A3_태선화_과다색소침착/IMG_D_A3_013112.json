@@ -1,0 +1,63 @@
+{
+	"metaData": {
+		"Raw data ID": "IMG_D_A3_43_013112.jpg",
+		"copyrighter": "㈜미소정보기술",
+		"resolution": "1920X1080",
+		"date": "2021-11-05",
+		"breed": "포메라니안",
+		"age": "8",
+		"gender": "F",
+		"region": "L",
+		"camera type": "IMG",
+		"species": "D",
+		"lesions": "A3",
+		"diagnosis": "",
+		"Path": "유증상",
+		"identifier": "피부질환",
+		"src_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A3_태선화_과다색소침착",
+		"label_path": "/라벨링데이터/반려견/피부/일반카메라/유증상/A3_태선화_과다색소침착",
+		"type": "json",
+		"fileformat": "jpg"
+	},
+	"inspRejectYn": "N",
+	"labelingInfo": [
+		{
+			"polygon": {
+				"color": "#56bcec",
+				"location": [
+					{
+						"x1": 949,
+						"y1": 317,
+						"x2": 949,
+						"y2": 328,
+						"x3": 960,
+						"y3": 334,
+						"x4": 971,
+						"y4": 328,
+						"x5": 968,
+						"y5": 322,
+						"x6": 949,
+						"y6": 317
+					}
+				],
+				"label": "A3_태선화_과다색소침착",
+				"type": "polygon"
+			}
+		},
+		{
+			"box": {
+				"color": "#56bcec",
+				"location": [
+					{
+						"x": 949,
+						"y": 317,
+						"width": 22,
+						"height": 17
+					}
+				],
+				"label": "A3_태선화_과다색소침착",
+				"type": "box"
+			}
+		}
+	]
+}
